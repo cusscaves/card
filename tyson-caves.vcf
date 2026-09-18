@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Caves;Tyson;Ray Cueva;;
+FN:Tyson Ray Cueva Caves
+ORG:SSX360 Corp
+TITLE:Chief Information Officer
+TEL;TYPE=CELL,VOICE,PREF:+18052456738
+EMAIL;TYPE=INTERNET,WORK,PREF:ty@ssx360.com
+EMAIL;TYPE=INTERNET,WORK:tyson@llmdorado.com
+URL;TYPE=WORK:https://ssx360.com
+URL:https://llmdorado.com
+ADR;TYPE=WORK:;;;Santa Barbara;CA;;USA
+NOTE:Chief Information Officer, SSX360 Corp - independent assurance for agentic and automated systems. Owner, LlmDorado Consulting - multi-agent architecture and AI systems.
+END:VCARD
